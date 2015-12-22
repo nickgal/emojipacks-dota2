@@ -140,3 +140,7 @@
 
 ### Zeus Wrath Emoticon
 * `:wrath:` ![wrath](images/wrath.gif)
+
+
+## Legal
+This media is extracted from the game Dota 2. The copyright for it is held by Valve Corporation and any other respective owners.
