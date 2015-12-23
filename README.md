@@ -1,3 +1,8 @@
+# emojipacks-dota2
+> Bringing Dota 2 to your Slack.
+
+`https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/output/dota2.yml`
+
 ### Compendium Emoticon Pack
 * `:blush:` ![blush](images/blush.gif)
 * `:cheeky:` ![cheeky](images/cheeky.gif)
