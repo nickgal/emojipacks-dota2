@@ -131,6 +131,13 @@
 * `:charm_smile:` ![charm_smile](images/charm_smile.gif)
 * `:charm_onlooker:` ![charm_onlooker](images/charm_onlooker.gif)
 
+
+### Winter 2016 Emoticon Pack
+* `:snowman:` ![snowman](images/snowman.gif)
+* `:healed:` ![healed](images/healed.gif)
+* `:drunk:` ![drunk](images/drunk.gif)
+* `:trophy_2016:` ![trophy_2016](images/trophy_2016.gif)
+
 ### Eaglesong 2015 Emoticon
 * `:eaglesong_2015:` ![eaglesong_2015](images/eaglesong_2015.gif)
 

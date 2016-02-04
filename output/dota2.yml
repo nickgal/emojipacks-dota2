@@ -119,6 +119,8 @@ emojis:
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/disapprove.gif
 - name: doubledamage
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/doubledamage.gif
+- name: drunk
+  src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/drunk.gif
 - name: eaglesong_2015
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/eaglesong_2015.gif
 - name: eyeroll
@@ -149,6 +151,8 @@ emojis:
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/haste.gif
 - name: headshot
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/headshot.gif
+- name: healed
+  src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/healed.gif
 - name: heart
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/heart.gif
 - name: hex
@@ -191,6 +195,8 @@ emojis:
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/smile.gif
 - name: snot
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/snot.gif
+- name: snowman
+  src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/snowman.gif
 - name: stunned
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/stunned.gif
 - name: surprise
@@ -219,6 +225,8 @@ emojis:
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/tp.gif
 - name: troll
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/troll.gif
+- name: trophy_2016
+  src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/trophy_2016.gif
 - name: wink
   src: https://raw.githubusercontent.com/nickgal/emojipacks-dota2/master/images/wink.gif
 - name: wrath
